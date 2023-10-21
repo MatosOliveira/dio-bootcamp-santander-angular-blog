@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # AngularBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
@@ -27,9 +27,10 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 =======
-## dio-bootcamp-santander-angular-blog
+
+## PROJETO >> dio-bootcamp-santander-angular-blog
 
 Santander Bootcamp 2023 - Fullstack Java + Angular
 
 - Este projeto faz parte do curso de criação de páginas interativas com Angular.
->>>>>>> 290c3cda67d1a75fb5ad4fc7b55d267cadcb9ed5
+
