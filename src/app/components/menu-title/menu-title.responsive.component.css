@@ -1,0 +1,38 @@
+.container__menu-title {
+    color: white;
+}
+
+.container__menu-title > h1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 110px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+.container__menu-title > hr {
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+@media screen and (min-width: 380px) {
+    .container__menu-title {
+      grid-template-columns: 1fr 1fr;
+      font-size: small;
+    }
+  }
+  
+@media screen and (min-width: 576px) {
+    .container__menu-title {
+        grid-template-columns: 1fr 1fr 1fr;
+        font-size: medium;
+    }
+}
+
+@media screen and (min-width: 992px) {
+    .container__menu-title {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+        font-size: large;
+    }
+}
